@@ -4,3 +4,5 @@ test1
 test2
 test3
 My stupid boss still prefers SVN.
+
+Creating a new branch is quick.
